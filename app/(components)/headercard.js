@@ -29,7 +29,7 @@ export default function Headercard() {
     <picture>
           <img
             className=" w-49 h-full bg-white w-100 "
-            src="/1.png"
+            src="/1.PNG"
             alt="company logo"
           />
         </picture>
