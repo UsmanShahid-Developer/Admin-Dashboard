@@ -29,13 +29,13 @@ export default function Headercard() {
     <picture>
           <img
             className=" w-49 h-full bg-white w-100 "
-            src="/1.jpg"
+            src="/1.png"
             alt="company logo"
           />
         </picture>
     </div>
-    <h1>
-      All Rese
+    <h1 className="bg-red-500 text-center mt-10 text-2xl text-white">
+      All Reserved By Usman Shahid.
     </h1>
   </>
   )
